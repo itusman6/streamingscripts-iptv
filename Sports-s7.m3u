@@ -1,195 +1,133 @@
-#EXTM3U
-# ==========================================
-# EXPIRY: June 4, 2027, 4:39 pm
-# TYPE: Single Channel Conversion
-# GENERATED: 2026-07-07 20:27:42
-# ==========================================
-
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ ASTRO CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809382.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STAR SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809383.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STAR SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809384.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTS 18 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809385.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ WILLOW CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809386.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ WILLOW CRICKET EXTRA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809387.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ ATN SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809388.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ FOX CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809389.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORTS CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809390.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809392.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809393.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809394.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SKY SPORT 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809395.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SUPER SPORTS CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809391.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ TEN SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809396.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ A SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809397.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ PTV SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809398.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ GEO SUPER HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809399.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STARZPLAY CRLIFE 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809400.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STARZPLAY CRLIFE 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809401.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STARZPLAY CRIIICLIFE MAX HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809402.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ HUB SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809403.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ FLOW SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809404.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ RUSH SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809405.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ RUSH SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809406.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTSMAX HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809407.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTSMAX 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809408.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ SPORTSMAX CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809409.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ JIO CRICKET ENGLISH HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809411.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ CRICKET GOLD HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809410.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png", ┃PK┃ A SPORTS FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911320.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png", ┃PK┃ A SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911321.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png", ┃PK┃ A SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911322.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png", ┃PK┃ PTV SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/373120.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png", ┃PK┃ PTV SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911324.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png", ┃PK┃ PTV SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911325.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png", ┃PK┃ TEN SPORTS FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911326.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png", ┃PK┃ TEN SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/373119.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png", ┃PK┃ TEN SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911327.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png", ┃PK┃ GEO SUPER HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/373118.m3u8
-#EXTINF:-1 group-title="┃PK┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/FAST SPORTS.png", ┃PK┃ FAST SPORTS
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/911323.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png", ┃UK┃ PREMIER SPORTS 1 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827990.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png", ┃UK┃ PREMIER SPORTS 2 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827989.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png", ┃UK┃ DAZN 1 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827993.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", ┃UK┃ LA LIGA TV 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827985.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MUTV.png", ┃UK┃ MUTV 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827988.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/LFCTV.png", ┃UK┃ LFC 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827987.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/RACINGTV.png", ┃UK┃ RACING 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/827986.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png", ┃UK┃ UFC 24/7 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/828041.m3u8
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/wwe-network.png", ┃UK┃ WWE 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/828042.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY1.png", ┃UK┃ SUPERSPORT VARIETY 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396886.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY2.png", ┃UK┃ SUPERSPORT VARIETY 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396885.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY3.png", ┃UK┃ SUPERSPORT VARIETY 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396884.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTVARIETY4.png", ┃UK┃ SUPERSPORT VARIETY 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396883.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTFOOTBALL.png", ┃UK┃ SUPERSPORT FOOTBALL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396882.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTPREMIERLEAGUE.png", ┃UK┃ SUPERSPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396881.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTLALIGA.png", ┃UK┃ SUPERSPORT LA LIGA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396880.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTTENNIS.png", ┃UK┃ SUPERSPORT TENNIS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396878.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTRUGBY.png", ┃UK┃ SUPERSPORT RUGBY HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396877.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTCRICKET.png", ┃UK┃ SUPERSPORT CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396876.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTGOLF.png", ┃UK┃ SUPERSPORT GOLF HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396875.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT MOTORSPORT HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396874.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTBLITZ.png", ┃UK┃ SUPERSPORT BLITZ HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396873.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTMAXIMO1.png", ┃UK┃ SUPERSPORT MAXIMO 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396872.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT PLAY 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396871.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTGRANDSTAND.png", ┃UK┃ SUPERSPORT GRANDSTAND HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396870.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT PSL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396869.m3u8
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png", ┃UK┃ SUPERSPORT ACTION HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/396868.m3u8
-#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1174235.m3u8
-#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1174236.m3u8
-#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1174237.m3u8
-#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1174238.m3u8
-#EXTINF:-1 group-title="┃UK┃ TNT SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png", ┃UK┃ TNT SPORTS 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1174239.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png", ☰☰☰☰ ┃UK┃ SKY SPORTS HD ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312174.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png", ┃UK┃ SKY SPORTS NEWS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312175.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png", ┃UK┃ SKY SPORTS MAIN EVENT HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312176.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312177.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png", ┃UK┃ SKY SPORTS FOOTBALL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312178.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png", ┃UK┃ SKY SPORTS MIX HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312179.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png", ┃UK┃ SKY SPORTS ACTION / NFL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312180.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png", ┃UK┃ SKY SPORTS F1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312181.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png", ┃UK┃ SKY SPORTS RACING HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312182.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png", ┃UK┃ SKY SPORTS TENNIS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312186.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png", ┃UK┃ SKY SPORTS GOLF HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312183.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png", ┃UK┃ SKY SPORTS CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312184.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png", ┃UK┃ SKY SPORTS+ HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312185.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING TV.png", ┃UK┃ RACING TV UK HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312829.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png", ┃UK┃ RACING.COM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312830.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png", ┃UK┃ LFC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312834.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312835.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LA LIGA TV.png", ┃UK┃ LA LIGA TV HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312836.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png", ┃UK┃ REAL MADRID TV HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312833.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png", ┃UK┃ UFC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312832.m3u8
-#EXTINF:-1 group-title="┃UK┃ SKY SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/WWE.png", ┃UK┃ WWE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/1312831.m3u8
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ ASTRO CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809382.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ STAR SPORTS 1 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809383.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ STAR SPORTS 2 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809384.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SPORTS 18 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809385.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ WILLOW CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809386.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ WILLOW CRICKET EXTRA HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809387.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ FOX CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809389.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SKY SPORTS CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809390.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SKY SPORT 1 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809392.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SKY SPORT 2 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809393.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SKY SPORT 3 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809394.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SKY SPORT 4 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809395.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ SUPER SPORTS CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809391.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ TEN SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809396.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ A SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809397.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ PTV SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809398.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ GEO SUPER HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809399.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ HUB SPORTS 3 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809403.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ FLOW SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809404.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ RUSH SPORTS 2 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809406.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="WORLD CRICKET",┃WC┃ JIO CRICKET ENGLISH HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/809411.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ A SPORTS FHD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911320.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ A SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911321.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ A SPORTS
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911322.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png" group-title="┃PK┃ SPORTS",┃PK┃ PTV SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/373120.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ PTV SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911324.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ PTV SPORTS
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911325.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ TEN SPORTS FHD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911326.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png" group-title="┃PK┃ SPORTS",┃PK┃ TEN SPORTS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/373119.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png" group-title="┃PK┃ SPORTS",┃PK┃ TEN SPORTS
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/911327.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png" group-title="┃PK┃ SPORTS",┃PK┃ GEO SUPER HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/373118.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="┃UK┃ SPORT",┃UK┃ PREMIER SPORTS 1 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/827990.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="┃UK┃ SPORT",┃UK┃ PREMIER SPORTS 2 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/827989.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃UK┃ SPORT",┃UK┃ LA LIGA TV 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/827985.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MUTV.png" group-title="┃UK┃ SPORT",┃UK┃ MUTV 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/827988.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/LFCTV.png" group-title="┃UK┃ SPORT",┃UK┃ LFC 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/827987.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/RACINGTV.png" group-title="┃UK┃ SPORT",┃UK┃ RACING 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/827986.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="┃UK┃ SPORT",┃UK┃ UFC 24/7 8K
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/828041.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTFOOTBALL.png" group-title="┃UK┃ SUPERSPORT",┃UK┃ SUPERSPORT FOOTBALL HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/396882.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTRUGBY.png" group-title="┃UK┃ SUPERSPORT",┃UK┃ SUPERSPORT RUGBY HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/396877.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTCRICKET.png" group-title="┃UK┃ SUPERSPORT",┃UK┃ SUPERSPORT CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/396876.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/supersport.png" group-title="┃UK┃ SUPERSPORT",┃UK┃ SUPERSPORT MOTORSPORT HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/396874.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1174235.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 1 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1174236.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 2 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1174237.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 3 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1174238.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS HD",┃UK┃ TNT SPORTS 4 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1174239.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS HD",☰☰☰☰ ┃UK┃ SKY SPORTS HD ☰☰☰☰
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312174.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS NEWS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312175.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS MAIN EVENT HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312176.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS PREMIER LEAGUE HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312177.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS FOOTBALL HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312178.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS MIX HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312179.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS ACTION / NFL HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312180.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS F1 HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312181.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS RACING HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312182.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS TENNIS HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312186.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS GOLF HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312183.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS CRICKET HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312184.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ SKY SPORTS+ HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312185.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING TV.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ RACING TV UK HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312829.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ RACING.COM HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312830.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ LFC HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312834.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ MUTV HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312835.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LA LIGA TV.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ LA LIGA TV HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312836.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="┃UK┃ SKY SPORTS HD",┃UK┃ UFC HD
+https://raw.githubusercontent.com/itusman6/streamingscripts-iptv/refs/heads/main/cha-spr7/1312832.m3u8
